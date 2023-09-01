@@ -1,0 +1,32 @@
+body {
+	background-color: rgb(222, 213, 213);
+}
+
+.welcome {
+	color: rgb(155, 54, 155);
+}
+
+.letter-container {
+	background-color: rgb(162, 161, 149);
+	padding: 3em;
+	/* px = pixlar, em = beror på font-size */
+}
+.letter {
+	background-color: rgb(238, 237, 227);
+	/* padding-left: 4em;
+	padding-top: 3em;
+	padding-right: 2em;
+	padding-bottom: 1em; */
+	padding: 3em 2em 1em 4em;
+}
+.letter-content {
+	margin: 0em;
+}
+
+.inline {
+	background-color: orange;
+}
+.block {
+	background-color: orange;
+	display: block;
+}
